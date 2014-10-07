@@ -2,7 +2,7 @@ This is an all purpose table application to allow you to import data from a numb
 
 You can currently see the tableapp working at: http://tableapp.lauratyler.co.uk/php-mvc/
 
-The first table is the songs table, thanks to php-mvc http://www.php-mvc.net/. The application itself is open source for you to download and play with. I've added a logger thanks to bit bucket
+The first table is the songs table, thanks to php-mvc http://www.php-mvc.net/. The application itself is open source for you to download and play with. I've added a logger thanks to bit bucket https://bitbucket.org/huntlyc/simple-php-logger/downloads
 
 I will accept suggestions for change to the application (laura@jofa.co.uk). Also through github, when I have worked out how.
 
