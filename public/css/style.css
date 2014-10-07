@@ -1,0 +1,54 @@
+body{background:grey; font-family: Sans-Serif;}
+span.tableColumnsButton{ background-color: #2479f0; color: white; height: 30px; width: 130px; border: 0px;  border-radius: 5px;  font-size: 102%;  text-align:center; padding:7px 5px 10px 5px; cursor:pointer;}
+form{text-align:center;}
+form textarea{ float:left; margin-top:16px; width:20%; margin-left:5px; height:40px;}
+footer{width:97%; background:#FFFFFE; margin-bottom: 30px; margin-left: auto; margin-right: auto; padding-top: 5px; border-radius: 5px; overflow: hidden;}
+footer nav ul li{ display:inline; margin-left:10px; line-height:50px; min-width:50px; text-align:center;  padding:10px; background-color:orange; border-radius:5px;}
+footer nav ul li a{ text-decoration:none; color:black; height:50px;  }
+footer img{float:left; margin-top:8px; margin-left:50px;}
+figure { overflow : auto;}
+header{width:97%; background:#FFFFFE; margin-top: 20px; margin-left: auto; margin-right: auto; padding-top: 5px; border-radius: 5px; overflow: hidden;}
+header img{float:left; margin-top:20px; margin-left:50px;}
+header h1{text-align:left; margin-left:25%;}
+header p{text-align:left; margin-left:25%}
+header nav ul li{ display:inline; margin-left:10px; line-height:50px; min-width:50px; text-align:center;  padding:10px; background-color:orange; border-radius:5px;}
+header nav ul li a{ text-decoration:none; color:black; height:50px;  }
+hr{width:95%;}
+input[type="submit"]{ background-color: #2479f0; color: white; height: 30px; width: 70px; border: 0px; border-radius: 5px; font-size: 102%; cursor:pointer;}
+input[type="reset"]{ background-color: #d0d0d0;  color: black; height: 30px; width: 70px;  border:0px;  border-radius: 5px;  font-size: 102%; cursor:pointer;}
+input[type="text"]{ border-radius: 5px; border: 1px solid #d0d0d0;  width: 30%; height: 25px;  text-indent:5px;  font-size: 102%; }
+input[type="text"].inactive{ color: #d0d0d0;}
+input[type="text"].active{ color: black;}
+img{ padding:2px; cursor:pointer;}
+nav ul{ list-style-type: none; float:right; margin-right:50px; padding: 0; overflow: hidden;}
+nav ul li.active{ background-color:red;}
+p { font-family: "Source Sans Pro";}
+p.top{ text-align: center; }
+section{width:97%; background:#FFFFFE; margin-top:10px; margin-bottom:10px; margin-left: auto; margin-right: auto; padding-top: 5px; border-radius: 5px; overflow: hidden;}
+section h2{margin-left:50px;}
+section p{margin-left:50px;}
+section ul{margin-left:50px;}
+section ul li ul {list-style-type: none; margin-left:0px;}
+section ul li ul li {clear:left; line-height:40px;}
+section ul li ul li img {float:left;}
+section ul li {clear:left;}
+table{  border-collapse:collapse; border: 1px solid #d0d0d0; width:100%;}
+table td{ border: 1px solid #d0d0d0; padding: 3px 7px 2px 20px; font-size:95%; height:30px;}
+table th{ background-image:url(../img/tile.png); background-repeat:repeat;  padding: 3px 7px 2px 20px;  font-size:95%;  height:50px;  text-align:left;}
+table th a{ text-decoration:none; color:black;}
+table th a.active{ text-decoration:none; color:red;}
+table tr.even{ background-color: #f8f8f8;}
+.center{text-align:center; }
+.centerform{margin-left:20%}
+.centerform form{display:inline}
+.displaynone{display:none;}
+.jsonexample{color:red;}
+.pagination{ display:inline-block; width:500px;}
+.pagination .active{ background-color: #818181;}
+.pagination .active a{ color:white;}
+.pagination li{display:inline; background-color: #f8f8f8; -moz-border-radius: 5px; -webkit-border-radius: 5px; border: 1px solid #d0d0d0;  padding: 5px; margin:2px;}
+.pagination li a{ color:black; text-decoration:none; padding: 5px 10px;}
+.uploadform {margin-left:50px; text-align:left;}
+.uploadform fieldset{border:0px;}
+.uploadform legend {line-height:40px;}
+.uploadform legend img {float:left;}

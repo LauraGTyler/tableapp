@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/index.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/models/tablemodel.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/libs/PHPExcel/Cell.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/public/img/csv.png</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/models/songsmodel.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/libs/PHPExcel/Worksheet/RowIterator.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/libs/PHPExcel/Shared/OLE/ChainedBlockStream.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/views/_templates/header.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/models/statsmodel.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/controller/table.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/libs/PHPLogger.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/public/js/application.js</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/libs/controller.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/views/home/index.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/_install/01-create-database.sql</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/libs/PHPExcel/CachedObjectStorageFactory.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/.htaccess</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/libs/PHPExcel/CachedObjectStorage/PHPTemp.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/views/home/importtable.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/libs/PHPExcel/Shared/OLE.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/public/js/jquery.simplemodal.min.js</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/public/js/as_javascript.js</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/libs/PHPExcel/Worksheet/CellIterator.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/libs/PHPExcel/WorksheetIterator.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/_install/03-insert-demo-data-into-table-song.sql</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/views/_templates/footer.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/libs/application.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/libs/PHPExcel/Worksheet/Row.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/public/js/jquery.min.js</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/license.txt</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/libs/PHPExcel/Worksheet.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/views/home/cookiepolicy.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/config/config.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/public/img/petl.png</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/README.md</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/libs/PHPExcel.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/controller/home.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/application/views/table/index.php</file>
+            <file>file:/Applications/MAMP/htdocs/php-mvc/public/css/style.css</file>
+        </group>
+    </open-files>
+</project-private>

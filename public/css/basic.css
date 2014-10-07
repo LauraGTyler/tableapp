@@ -1,0 +1,32 @@
+/*
+ * SimpleModal Basic Modal Dialog
+ * http://simplemodal.com
+ *
+ * Copyright (c) 2013 Eric Martin - http://ericmmartin.com
+ *
+ * Licensed under the MIT license:
+ *   http://www.opensource.org/licenses/mit-license.php
+ *  
+ * Changed for D3R By Laura Tyler 
+ * 
+ */
+
+
+#basic-modal-content {display:none;}
+
+/* Overlay */
+#simplemodal-overlay {background-color:#000;}
+
+/* Container */
+#simplemodal-container {height:250px; width:600px; color:#444; background-color:white; border:4px solid #444; padding:12px;padding-top: 5px; border-radius: 10px; }
+#simplemodal-container .simplemodal-data {padding:8px;}
+#simplemodal-container a.modalCloseImg { background:url(../img/x.png) no-repeat; width:25px; height:29px; display:inline; z-index:3200; position:absolute; top:-15px; right:-18px; cursor:pointer;
+}
+
+#simplemodal-container h2 {color: #2288b7; margin-left:30px; font-family:"Source Sans Pro";}
+
+/* Description list */
+dl { width: 100%; font-size:95%; float:left; margin-top: 0; margin-right:50%; margin-bottom:15px; margin-left:30px;}
+dl dt { font-weight: bold; float: left; clear: left; width: 25%; margin: 0; font-family:"Source Sans Pro";}
+dl dd { float: left; width: 50%; margin: 0 0 0.5em 2%; font-family:"Source Sans Pro";}
+
