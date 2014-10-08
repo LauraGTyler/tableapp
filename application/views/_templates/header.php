@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>PHP MVC skeleton</title>
+    <title>Lauras table application</title>
     <meta name="description" content="This is an example table application using the php mvc framework">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- css -->
