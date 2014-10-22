@@ -19,7 +19,7 @@ ini_set("display_errors", 1);
  * Put your URL here, for local development "127.0.0.1" or "localhost" (plus sub-folder) is fine
  * Unable to use this in application.js atm, so please changethere too..
  */
-define('URL', 'http://127.0.0.1:8888/php-mvc/');
+define('URL', 'http://127.0.0.1:8888/tableapp/');
 define('SERVER', 'http://127.0.0.1:8888');
 define('FILETMPDIR', '/tmp/php-mvc-files');
 define('TABLEITEMS', 5);
